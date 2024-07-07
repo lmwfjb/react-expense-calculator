@@ -62,7 +62,7 @@ const MainPage = ({ expenses, addExpense, participantsList }) => {
                 <Col>
                     <Row gutter={[8, 0]} align="middle">
                         <Col>
-                            <img src="/header-logo.png" alt="Logo" style={{ height: '24px' }} />
+                            <img src="header-logo.png" alt="Logo" style={{ height: '24px' }} />
                         </Col>
                         <Col>
                             <Title level={4} style={{ color: 'white', margin: 0 }}>
