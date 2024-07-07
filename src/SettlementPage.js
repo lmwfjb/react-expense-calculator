@@ -83,7 +83,7 @@ const SettlementPage = ({ expenses, participants }) => {
             <Header className="header">
                 <Row align="middle">
                     <Col>
-                        <img src="header-logo.png" alt="Logo" style={{ height: '24px' }} />
+                        <img src={process.env.PUBLIC_URL + '/header-logo.png'} alt="Logo" style={{ height: '24px' }} />
                     </Col>
                     <Col>
                         <Title level={4} style={{ color: 'white', padding: '4px', margin: 0}}>
