@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf5f82933ed464237603bcb861831c8e",
+    "revision": "14c6ff15e6b5feb3555601f39b328b69",
     "url": "/react-expense-calculator/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-expense-calculator/static/css/2.2a42abf6.chunk.css"
   },
   {
-    "revision": "02723d35b2231d3261b4",
+    "revision": "e72d35f6d37db253a1df",
     "url": "/react-expense-calculator/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-expense-calculator/static/js/3.c114a520.chunk.js"
   },
   {
-    "revision": "02723d35b2231d3261b4",
-    "url": "/react-expense-calculator/static/js/main.1d2772be.chunk.js"
+    "revision": "e72d35f6d37db253a1df",
+    "url": "/react-expense-calculator/static/js/main.207b44d3.chunk.js"
   },
   {
     "revision": "2a4786ef7fec47da1bee",
