@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-expense-calculator/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/react-expense-calculator/static/js/main.5b240530.chunk.js",
-    "main.js.map": "/react-expense-calculator/static/js/main.5b240530.chunk.js.map",
+    "main.js": "/react-expense-calculator/static/js/main.3eb65e35.chunk.js",
+    "main.js.map": "/react-expense-calculator/static/js/main.3eb65e35.chunk.js.map",
     "runtime~main.js": "/react-expense-calculator/static/js/runtime~main.9386f479.js",
     "runtime~main.js.map": "/react-expense-calculator/static/js/runtime~main.9386f479.js.map",
     "static/css/2.2a42abf6.chunk.css": "/react-expense-calculator/static/css/2.2a42abf6.chunk.css",
@@ -11,7 +11,7 @@
     "static/js/3.c114a520.chunk.js": "/react-expense-calculator/static/js/3.c114a520.chunk.js",
     "static/js/3.c114a520.chunk.js.map": "/react-expense-calculator/static/js/3.c114a520.chunk.js.map",
     "index.html": "/react-expense-calculator/index.html",
-    "precache-manifest.088f69c8f6a5f9d245564f7367048dd1.js": "/react-expense-calculator/precache-manifest.088f69c8f6a5f9d245564f7367048dd1.js",
+    "precache-manifest.7c0236b2f02fb437dbd15f1f6c22a874.js": "/react-expense-calculator/precache-manifest.7c0236b2f02fb437dbd15f1f6c22a874.js",
     "service-worker.js": "/react-expense-calculator/service-worker.js",
     "static/css/2.2a42abf6.chunk.css.map": "/react-expense-calculator/static/css/2.2a42abf6.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/react-expense-calculator/static/css/main.5ecd60fb.chunk.css.map"
